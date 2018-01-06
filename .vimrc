@@ -28,7 +28,6 @@ highlight PmenuSel ctermbg=red ctermfg=yellow
 imap ( ()<ESC>i
 imap () ()
 imap [ []<ESC>i
-imap < <><ESC>i
 inoremap ' ''<ESC>i
 inoremap " ""<ESC>i
 
