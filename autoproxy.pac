@@ -4948,7 +4948,8 @@ var rules = [
             "zyns.com", 
             "zyzc9.com", 
             "zzcartoon.com", 
-            "zzux.com"
+            "zzux.com",
+            "coursera.org"
         ]
     ]
 ];
