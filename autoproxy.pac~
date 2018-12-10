@@ -13,7 +13,6 @@ var rules = [
     ], 
     [
         [
-            "pytorch.org",
             "4pppc.gov.tw", 
             "921.gov.tw", 
             "aftygh.gov.tw", 
